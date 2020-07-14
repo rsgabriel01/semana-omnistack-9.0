@@ -18,7 +18,7 @@ export default function Dashboard(){
       
     }
     loadSpots();
-  }, []);
+    }, []);
   return (
     <>
       <ul className="spot-list">
